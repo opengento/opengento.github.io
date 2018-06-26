@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Événements on OpenGento - Communauté de développeurs ecommerce</title>
+    <link>https://amazing-nobel-accf36.netlify.com/events/</link>
+    <description>Recent content in Événements on OpenGento - Communauté de développeurs ecommerce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 02 Jun 2018 17:34:22 +0200</lastBuildDate>
+    
+	<atom:link href="https://amazing-nobel-accf36.netlify.com/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organisez votre événement</title>
+      <link>https://amazing-nobel-accf36.netlify.com/events/organisez-votre-evenement/</link>
+      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
+      
+      <guid>https://amazing-nobel-accf36.netlify.com/events/organisez-votre-evenement/</guid>
+      <description>L’objet de l’association est essentiellement l’organisation d’événements Magento. Si vous souhaitez créer votre propre événement, nous serons ravis de pouvoir vous aider.
+Nous mettons à votre disposition nos compétences en organisation, notre trésorerie pour avancer des frais et notre réseau humain pour trouver des participants, des orateurs voire des sponsors.
+Quelques pré-requis :
+ L’événement est organisé par Opengento L’événement doit être uniquement organisé autour de Magento Son coût doit être entièrement auto-finançé, l’association ne participe pas au financement.</description>
+    </item>
+    
+    <item>
+      <title>Weekend Opengento 2018</title>
+      <link>https://amazing-nobel-accf36.netlify.com/events/weekend-opengento-2018/</link>
+      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
+      
+      <guid>https://amazing-nobel-accf36.netlify.com/events/weekend-opengento-2018/</guid>
+      <description>Nous y voilà enfin ! Le Week-end Opengento 2018 arrive à grand pas !
+Cette année, nous nous éloignons de la ville rose pour nous rapprocher du pays de la lentille verte et de la liqueur de verveine ! Oui, nous serons cette année au cœur la Haute Loire, tout près des volcans d’Auvergne et au calme, loin du tumulte des grandes villes.
+Nous serons réunis cette année dans la commune d’Allègre à 30 km du Puy-en-Velay.</description>
+    </item>
+    
+    <item>
+      <title>Weekend Opengento 2017</title>
+      <link>https://amazing-nobel-accf36.netlify.com/events/weekend-opengento-2017/</link>
+      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
+      
+      <guid>https://amazing-nobel-accf36.netlify.com/events/weekend-opengento-2017/</guid>
+      <description>L’événement Magento français à ne pas rater pour les développeurs Comme chaque année maintenant, nous organisons un week-end dans une villa privatisée en proche banlieue Toulousaine.
+Les dates sont : Du vendredi 23 juin midi au dimanche 25 juin soir.
+Les places coûtent 135 € par personne et prennent en charge l’intégralité du week-end (logement, nourriture, boissons, ménage). Il ne vous reste qu’à venir à Toulouse.
+Rappel : pour participer, il faut être adhérent de l’association (5€) ce qui vous donnera accès à notre Slack !</description>
+    </item>
+    
+    <item>
+      <title>Weekend Opengento 2016</title>
+      <link>https://amazing-nobel-accf36.netlify.com/events/weekend-opengento-2016/</link>
+      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
+      
+      <guid>https://amazing-nobel-accf36.netlify.com/events/weekend-opengento-2016/</guid>
+      <description>Week-end Toulouse 2016 L’événement soleil de l’année !
+Du 1 au 5 juin 2016.
+Dans une belle villa avec piscine et boulodrome, 20 développeurs Magento se retrouvent le temps d’un week-end pour échanger et co-construire des outils et extensions. Cette année, il est possible de venir à partir du mercredi pour du coworking jusqu’au vendredi, démarrage officiel de l’événement.
+Participer Il faut être adhérent de l’association (5 €) pour pouvoir participer à l’événement.</description>
+    </item>
+    
+    <item>
+      <title>Weekend Opengento 2015</title>
+      <link>https://amazing-nobel-accf36.netlify.com/events/weekend-opengento-2015/</link>
+      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
+      
+      <guid>https://amazing-nobel-accf36.netlify.com/events/weekend-opengento-2015/</guid>
+      <description>Week-end Toulouse 2015 Du vendredi 19&amp;frasl;06 soir au dimanche 21&amp;frasl;06 après-midi Imaginez une villa dans la campagne Toulousaine, oui avec Internet, mais aussi piscine, barbecue, verdure, soleil&amp;hellip;
+Imaginez 20 développeurs passionnés regroupés pour échanger sur une techno, Magento, et créer ensemble… Imaginez en plus que les courses, les repas, même la vaiselle sont gérés, ils n’ont qu’à profiter de l’instant… Magento Paradise à la Française en somme !
+En pratique Niveau Magento avancé requis Prix : 135 € TTC par participant tout compris sauf aller/retour Toulouse + 5 € d’adhésion à l’association.</description>
+    </item>
+    
+  </channel>
+</rss>

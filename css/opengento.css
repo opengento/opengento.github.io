@@ -1,0 +1,33 @@
+/* ==========================================================================
+OpenGento styles
+========================================================================== */
+
+/* navbar */
+.navbar-start .navbar-item { display: inline-block;}
+.navbar-start .navbar-item .brand { top: 5px;}
+.navbar-start .navbar-item.navbar-text { height: 32px; top: -3px;}
+.navbar-start #panel-trigger { float: right;}
+@media screen and (min-width: 1088px) {
+    .navbar-start .navbar-item { display: flex;}
+    .navbar-start .navbar-item .brand { top: -3px;}
+    .navbar-start .navbar-item.navbar-text { height: auto; top: auto;}
+}
+
+/* content .md */
+.hero-body #main h1 { font-size: 3rem; margin: 0.5em 0; font-weight: 600; line-height: 1;}
+.hero-body #main h2 { font-size: 2.4rem; margin: 0.5em 0; font-weight: 600; line-height: 1;}
+.hero-body #main h3 { font-size: 2.2rem; margin: 0.5em 0; font-weight: 600; line-height: 1;}
+.hero-body #main h4 { font-size: 2rem; font-weight: 600;}
+.hero-body #main h5 { font-size: 1.8rem; font-weight: 600;}
+.hero-body #main h6 { font-size: 1.6rem; font-weight: 600;}
+
+.hero-body #main ul { padding: 0.5em 2em;}
+.hero-body #main ul li { list-style-type: circle;}
+
+.events-list .event-content { margin-bottom: 10px;}
+
+/* debug */
+.hero-body #main sup,
+.hero-body #main sub { vertical-align: baseline; font-size: inherit;}
+
+.hero-foot img.partner-logo { max-height: 50px; height: auto; margin: 0 10px;}
