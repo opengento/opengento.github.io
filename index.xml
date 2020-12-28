@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenGento - Communauté de développeurs ecommerce</title>
@@ -6,11 +6,7 @@
     <description>Recent content on OpenGento - Communauté de développeurs ecommerce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 02 Jun 2018 17:34:31 +0200</lastBuildDate>
-    
-	<atom:link href="https://opengento.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 16 Nov 2019 10:00:31 +0200</lastBuildDate><atom:link href="https://opengento.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BlackBird</title>
       <link>https://opengento.github.io/adherents/blackbird/</link>
@@ -20,6 +16,16 @@
       <description>Chez Blackbird agency nous concevons et développons des sites e-commerce exclusivement sur Magento depuis 2015.
 Basée à Strasbourg, notre équipe compte aujourd’hui 12 membres dont 7 développeurs spécialistes de la solution, qui conçoivent également des extensions pour Magento 1 et 2 en vente sur notre store.
 Attachés à l’open-source et à Magento, nous souhaitons voir la communauté française se renforcer, et nous y contribuons à travers notre soutien à Opengento.</description>
+    </item>
+    
+    <item>
+      <title>commit42</title>
+      <link>https://opengento.github.io/adherents/commit42/</link>
+      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
+      
+      <guid>https://opengento.github.io/adherents/commit42/</guid>
+      <description>commit42 est un studio de d’innovation Web spécialisé dans les technologies React, CakePHP, NodeJS, Vuejs Magento et PWA.
+Ses projets peuvent varier de la maintenance d’une boutique en ligne à la réalisation d’applications métiers spécifiques (gestion de flotte de livraison avec Web App PWA pour les chauffeurs) en passant par des projets d&amp;rsquo;organismes public (fusion de données depuis plusieurs pôles de la Direccte)</description>
     </item>
     
     <item>
@@ -76,16 +82,6 @@ Quelques pré-requis :
     </item>
     
     <item>
-      <title>commit42</title>
-      <link>https://opengento.github.io/adherents/commit42/</link>
-      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
-      
-      <guid>https://opengento.github.io/adherents/commit42/</guid>
-      <description>commit42 est un studio de d’innovation Web spécialisé dans les technologies React, CakePHP, NodeJS, Vuejs Magento et PWA.
-Ses projets peuvent varier de la maintenance d’une boutique en ligne à la réalisation d’applications métiers spécifiques (gestion de flotte de livraison avec Web App PWA pour les chauffeurs) en passant par des projets d&amp;rsquo;organismes public (fusion de données depuis plusieurs pôles de la Direccte)</description>
-    </item>
-    
-    <item>
       <title>Weekend Opengento 2018</title>
       <link>https://opengento.github.io/events/weekend-opengento-2018/</link>
       <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
@@ -104,7 +100,7 @@ Nous serons réunis cette année dans la commune d’Allègre à 30 km du Puy-en
       <guid>https://opengento.github.io/events/weekend-opengento-2019/</guid>
       <description>Week-end Opengento Béthune Le Week-end Opengento 2019 arrive à grand pas !
 Nous serons cette année au parc d&amp;rsquo;Olhain (base de loisirs, parcours aventure dans les arbres, camping) dans le Nord Pas-de-Calais https://www.parcdolhain.fr/
-Mais qu’est-ce que le Week-end Opengento ? La possibilité de se réunir dans une ambiance conviviale et détendue pour parler dev, infra, méthodes de travail mais pas que ! C’est surtout le plaisir de se retrouver et de se rencontrer, (en chair et en os), et pas que sur Slack ou Twitter, mais surtout d’apprendre et de partager !</description>
+ Mais qu’est-ce que le Week-end Opengento ? La possibilité de se réunir dans une ambiance conviviale et détendue pour parler dev, infra, méthodes de travail mais pas que ! C’est surtout le plaisir de se retrouver et de se rencontrer, (en chair et en os), et pas que sur Slack ou Twitter, mais surtout d’apprendre et de partager !</description>
     </item>
     
     <item>
@@ -137,7 +133,7 @@ Participer Il faut être adhérent de l’association (5 €) pour pouvoir parti
       <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
       
       <guid>https://opengento.github.io/events/weekend-opengento-2015/</guid>
-      <description>Week-end Toulouse 2015 Du vendredi 19&amp;frasl;06 soir au dimanche 21&amp;frasl;06 après-midi Imaginez une villa dans la campagne Toulousaine, oui avec Internet, mais aussi piscine, barbecue, verdure, soleil&amp;hellip;
+      <description>Week-end Toulouse 2015 Du vendredi 19/06 soir au dimanche 21/06 après-midi Imaginez une villa dans la campagne Toulousaine, oui avec Internet, mais aussi piscine, barbecue, verdure, soleil&amp;hellip;
 Imaginez 20 développeurs passionnés regroupés pour échanger sur une techno, Magento, et créer ensemble… Imaginez en plus que les courses, les repas, même la vaiselle sont gérés, ils n’ont qu’à profiter de l’instant… Magento Paradise à la Française en somme !
 En pratique Niveau Magento avancé requis Prix : 135 € TTC par participant tout compris sauf aller/retour Toulouse + 5 € d’adhésion à l’association.</description>
     </item>
@@ -149,7 +145,7 @@ En pratique Niveau Magento avancé requis Prix : 135 € TTC par participant tou
       
       <guid>https://opengento.github.io/association-opengento/</guid>
       <description>Objet  l’organisation d’événements autour du logiciel open-source Magento la fédération et l’animation de la communauté des développeurs et utilisateurs Magento en France toute action visant à promouvoir le logiciel Open-Source Magento auprès du public et des développeurs Français  L’association est composée de développeurs et des membres « donateurs » (personnes morales) qui souhaitent participer au financement annuel.
-L’assemblée générale se tient une fois par an, pendant la Mageconf.</description>
+L’assemblée générale se tient une fois par an, pendant la Mageconf. C’est le seul moment de présence physique dans la vie de l’association.</description>
     </item>
     
     <item>
@@ -161,7 +157,7 @@ L’assemblée générale se tient une fois par an, pendant la Mageconf.</descri
       <description>Mentions légales Ce site web est édité par l’association loi 1901 « OpenGento » (RNA W833003136).
 Directeur de la publication : Raphaël Petrini (Président de l’association).
 Siège social : 10 rue Ambroise Croizat – 83170 Tourves – France.
-Hébergement Ce site web est hébergé avec &amp;hearts; par GitHub.
+Hébergement Ce site web est hébergé avec ♥ par GitHub.
 Crédits Ce site Web à été fait avec Hugo. Le thème est basé sur Hugo Fresh par Luck PERKINS
 Cookies Ce site n&amp;rsquo;utilise pas de cookies.</description>
     </item>
