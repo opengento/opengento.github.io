@@ -6,7 +6,11 @@
     <description>Recent content in Événements on OpenGento - Communauté de développeurs ecommerce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 02 Jun 2018 17:34:22 +0200</lastBuildDate><atom:link href="https://opengento.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jun 2018 17:34:22 +0200</lastBuildDate>
+    
+	<atom:link href="https://opengento.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Organisez votre événement</title>
       <link>https://opengento.github.io/events/organisez-votre-evenement/</link>
