@@ -5,10 +5,6 @@
     <link>https://opengento.github.io/categories/</link>
     <description>Recent content in Categories on OpenGento - Communauté de développeurs ecommerce</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    
-	<atom:link href="https://opengento.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-fr</language><atom:link href="https://opengento.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

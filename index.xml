@@ -6,10 +6,24 @@
     <description>Recent content on OpenGento - Communauté de développeurs ecommerce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 02 Jun 2018 17:34:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 10:00:31 +0200</lastBuildDate><atom:link href="https://opengento.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adexos</title>
+      <link>https://opengento.github.io/adherents/adexos/</link>
+      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
+      
+      <guid>https://opengento.github.io/adherents/adexos/</guid>
+      <description>Adexos</description>
+    </item>
     
-	<atom:link href="https://opengento.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Ati4Group</title>
+      <link>https://opengento.github.io/adherents/ati4/</link>
+      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
+      
+      <guid>https://opengento.github.io/adherents/ati4/</guid>
+      <description>Ati4Group</description>
+    </item>
     
     <item>
       <title>BlackBird</title>
@@ -20,16 +34,6 @@
       <description>Chez Blackbird agency nous concevons et développons des sites e-commerce exclusivement sur Magento depuis 2015.
 Basée à Strasbourg, notre équipe compte aujourd’hui 12 membres dont 7 développeurs spécialistes de la solution, qui conçoivent également des extensions pour Magento 1 et 2 en vente sur notre store.
 Attachés à l’open-source et à Magento, nous souhaitons voir la communauté française se renforcer, et nous y contribuons à travers notre soutien à Opengento.</description>
-    </item>
-    
-    <item>
-      <title>commit42</title>
-      <link>https://opengento.github.io/adherents/commit42/</link>
-      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
-      
-      <guid>https://opengento.github.io/adherents/commit42/</guid>
-      <description>commit42 est un studio de d’innovation Web spécialisé dans les technologies React, CakePHP, NodeJS, Vuejs Magento et PWA.
-Ses projets peuvent varier de la maintenance d’une boutique en ligne à la réalisation d’applications métiers spécifiques (gestion de flotte de livraison avec Web App PWA pour les chauffeurs) en passant par des projets d&amp;rsquo;organismes public (fusion de données depuis plusieurs pôles de la Direccte)</description>
     </item>
     
     <item>
