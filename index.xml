@@ -6,7 +6,7 @@
     <description>Recent content on OpenGento - Communauté de développeurs ecommerce</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 16 Nov 2019 10:00:31 +0200</lastBuildDate><atom:link href="https://opengento.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jan 2022 10:00:31 +0200</lastBuildDate><atom:link href="https://opengento.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adexos</title>
       <link>https://opengento.github.io/adherents/adexos/</link>
@@ -104,6 +104,18 @@ Agence de formation pour les développeurs, nous sommes aussi grandement impliqu
       <description>Nous y voilà enfin ! Le Week-end Opengento 2018 arrive à grand pas !
 Cette année, nous nous éloignons de la ville rose pour nous rapprocher du pays de la lentille verte et de la liqueur de verveine ! Oui, nous serons cette année au cœur la Haute Loire, tout près des volcans d’Auvergne et au calme, loin du tumulte des grandes villes.
 Nous serons réunis cette année dans la commune d’Allègre à 30 km du Puy-en-Velay.</description>
+    </item>
+    
+    <item>
+      <title>Weekend Opengento 2022</title>
+      <link>https://opengento.github.io/events/weekend-opengento-2022/</link>
+      <pubDate>Sat, 15 Jan 2022 10:00:31 +0200</pubDate>
+      
+      <guid>https://opengento.github.io/events/weekend-opengento-2022/</guid>
+      <description>Week-end Opengento Toulouse Le Week-end Opengento 2022 arrive à grand pas !
+Après 2 ans de pause à cause du Covid, nous serons cette année à Croix de Pastel à Lavaur à côté de Toulouse. https://www.gite-croix-de-pastel.fr/
+Infos sanitaires : Nous n’allons pas les vérifier mais nous comptons sur chacun pour avoir fait un test négatif ou avoir un pass vaccinal à jour.
+ Mais qu’est-ce que le Week-end Opengento ? La possibilité de se réunir dans une ambiance conviviale et détendue pour parler dev, infra, méthodes de travail mais pas que !</description>
     </item>
     
     <item>
