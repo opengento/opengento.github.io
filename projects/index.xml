@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projets on OpenGento - Communauté de développeurs ecommerce</title>
+    <link>https://opengento.github.io/projects/</link>
+    <description>Recent content in Projets on OpenGento - Communauté de développeurs ecommerce</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 19 Mar 2022 15:28:22 +0100</lastBuildDate><atom:link href="https://opengento.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
