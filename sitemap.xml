@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://opengento.github.io/events/weekend-opengento-selestat-2024/</loc>
+    <lastmod>2024-05-30T12:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://opengento.github.io/events/weekend-opengento-2024/</loc>
     <lastmod>2023-10-27T15:00:00+02:00</lastmod>
   </url><url>
@@ -48,7 +51,7 @@
     <lastmod>2018-06-02T17:34:31+02:00</lastmod>
   </url><url>
     <loc>https://opengento.github.io/</loc>
-    <lastmod>2023-10-27T15:00:00+02:00</lastmod>
+    <lastmod>2024-05-30T12:00:00+02:00</lastmod>
   </url><url>
     <loc>https://opengento.github.io/projects/</loc>
     <lastmod>2022-03-19T15:28:22+01:00</lastmod>
