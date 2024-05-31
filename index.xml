@@ -103,6 +103,28 @@ Attachés à l’open-source et à Magento, nous souhaitons voir la communauté 
     </item>
     
     <item>
+      <title>Country Store Management for Magento 2</title>
+      <link>https://opengento.github.io/projects/countrystore/</link>
+      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
+      
+      <guid>https://opengento.github.io/projects/countrystore/</guid>
+      <description>This module suite allows you to operate multiple countries by store.
+This module also allows you to regroup multiple websites within a single group like a &amp;ldquo;brand&amp;rdquo;.
+The combination of these two improve your website organization and improve the capability of your store switcher.
+You can also show specific information regarding the current country of you customer so you can display precise information like specific contact information (phone number, email, opening hours) related to your store country place of operations.</description>
+    </item>
+    
+    <item>
+      <title>GDPR for Magento 2</title>
+      <link>https://opengento.github.io/projects/gdpr/</link>
+      <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
+      
+      <guid>https://opengento.github.io/projects/gdpr/</guid>
+      <description>Make your store GDPR compliant!
+Voir le projet</description>
+    </item>
+    
+    <item>
       <title>LUMAO</title>
       <link>https://opengento.github.io/adherents/lumao/</link>
       <pubDate>Sat, 02 Jun 2018 17:34:31 +0200</pubDate>
